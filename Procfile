@@ -1,1 +1,1 @@
-web: java -DadditionalSystemProperties=-Dhttp.port=$PORT -jar target/x-0.0.1-SNAPSHOT.war
+web: java -jar target/x.war
